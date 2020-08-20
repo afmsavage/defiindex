@@ -1,7 +1,7 @@
 
 # Index Weights
 
-- KNC 119.5117 - kyber
+- KNC 119.5117 - kyber-network
 - LEND 865.173 - aave
 - MKR 0.3517 - maker
 - KAVA 21.9652 - kava
