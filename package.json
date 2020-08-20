@@ -2,9 +2,10 @@
   "name": "defiindex",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node main.js"
   },
   "keywords": [],
   "author": "",
@@ -13,8 +14,6 @@
     "eslint": "^7.7.0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "coingecko-api": "^1.0.10",
-    "lodash": "^4.17.20"
+    "axios": "^0.19.2"
   }
 }
